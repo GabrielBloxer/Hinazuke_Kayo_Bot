@@ -2,10 +2,10 @@
 
 git add .
 git commit -m "SEU_NOME"
-(Se for pela sua primeira vez Faça esse git remote add origin https://github.com/GabrielBloxer/Hinazuke_Kayo_Bot.git)
+(Se for pela sua primeira vez Faça git remote add origin https://github.com/GabrielBloxer/Hinazuke_Kayo_Bot.git)
 git push -u origin master
 
 (Pegar atualização do repositório)
 
- (Se for pela sua primeira vez Faça esse git remote add origin https://github.com/GabrielBloxer/Hinazuke_Kayo_Bot.git)
+(Se for pela sua primeira vez Faça esse git remote add origin https://github.com/GabrielBloxer/Hinazuke_Kayo_Bot.git)
 git push -u origin master
