@@ -1,0 +1,22 @@
+{
+  "name": "hinazuke_kayo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielBloxer/Hinazuke_Kayo_Bot.git"
+  },
+  "author": "Dev_Datto, Acnologia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielBloxer/Hinazuke_Kayo_Bot/issues"
+  },
+  "homepage": "https://github.com/GabrielBloxer/Hinazuke_Kayo_Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.0"
+  }
+}
